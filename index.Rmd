@@ -1,0 +1,32 @@
+--- 
+title: "Daniel and Maya's Pathfinder TTRPG Builds"
+author: "Daniel and Maya"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+documentclass: book
+description: |
+  This is a collection of our Pathfinder builds we have made on stream.
+link-citations: yes
+#github-repo: "DanielAndMaya/PathfinderBuilds"
+site: bookdown::bookdown_site
+---
+
+```{r settings, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+# importing required libraries, don't change this
+library(dplyr)
+library(kableExtra)
+library(knitr)
+```
+
+# Introduction
+
+Here are our Pathfinder TTRPG builds! We make these Pathfinder TTRPG builds live on stream at https://www.twitch.tv/DanielAndMaya!
+
+## Pathfinder 2E Builds
+
+### Druids
+
+- [PinkyTheImposter's Catfolk Druid] - A Catfolk Druid that can beat you unmericfully but also take care of you afterwards. 
+
