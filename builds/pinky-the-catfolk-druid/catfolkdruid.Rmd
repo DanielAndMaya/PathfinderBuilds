@@ -1,10 +1,12 @@
 # PinkyTheImposter's Catfolk Druid
 
-*Build concept:* A druid that a beat you unmercifully, but also take care of you afterwards.
+*Build concept:* A druid that can beat you unmercifully, but also take care of you afterwards.
 
 ```{r echo=FALSE, fig.cap="A catfolk", out.width = '75%', fig.align='center', fig.pos = 'H'}
 knitr::include_graphics("builds/pinky-the-catfolk-druid/catfolk.png")
 ```
+- [1st level character sheet](builds/pinky-the-catfolk-druid/druid01.pdf)
+- [5th level character sheet](builds/pinky-the-catfolk-druid/druid05.pdf)
 
 Here's our starting stats:
 
@@ -17,7 +19,7 @@ Here's our starting stats:
 |WIS 16|(+3)|
 |CHA 10|(+0)|
 
-So for this build, we're selecting something that PinkyTheImposter (Pinky) expressed interested in, [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17). The equivalent in 5E is a Tabaxi.
+So for this build, we're selecting something that [PinkyTheImposter](https://www.twitch.tv/pinkytheimposter) (Pinky) expressed interested in, [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17). The equivalent in 5E is a Tabaxi.
 
 From a racial standpoint, they have roughly the same lifespan as humans, and bonuses to Dexterity and Charisma. They have low-light vision instead of Darkvision. They don't have the Feline Agility, Cat's Claws, or Cat's Talent features (although some of these can be obtained with Heritage or Ancestry Feats). Instead they only take half damage from falling and never land prone.
 
@@ -77,5 +79,7 @@ This is what our stats look like now:
 |INT 10|(+0)|
 |WIS 18|(+4)|
 |CHA 10|(+0)|
+
+We're also now Expert Proficiency in the following: Athletics, Lore: Cooking, and Medicine.
 
 Here is the [5th-level character sheet](builds/pinky-the-catfolk-druid/druid05.pdf).
