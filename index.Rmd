@@ -3,8 +3,8 @@ title: "Daniel and Maya's Pathfinder TTRPG Builds"
 author: "Daniel and Maya"
 date: "`r Sys.Date()`"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 documentclass: book
 description: |
   This is a collection of our Pathfinder builds we have made on stream.
@@ -28,5 +28,9 @@ Here are our Pathfinder TTRPG builds! We make these Pathfinder TTRPG builds live
 
 ### Druids
 
-- [PinkyTheImposter's Catfolk Druid] - A Catfolk Druid that can beat you unmericfully but also take care of you afterwards. 
+- [PinkyTheImposter's Catfolk Druid] - A Catfolk Druid that can beat you unmercifully but also take care of you afterwards.
+
+### Monks
+
+- [Xiota86's Angy Monk] - A Half-Orc Monk that yells, rages, and punches a lot.
 

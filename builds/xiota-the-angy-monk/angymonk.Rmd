@@ -1,0 +1,102 @@
+# Xiota86's Angy Monk
+
+*Build concept:* A very loud, raging, half-orc monk.
+
+```{r echo=FALSE, fig.cap="Smashy the angry half-orc monk", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/xiota-the-angy-monk/smashy.jpg")
+```
+
+- [1st level character sheet](builds/xiota-the-angy-monk/monk01.pdf)
+- [5th level character sheet](builds/xiota-the-angy-monk/monk05.pdf)
+- [10th level character sheet](builds/xiota-the-angy-monk/monk10.pdf)
+
+Here's our starting stats:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 18|(+4)|
+|DEX 12|(+1)|
+|CON 16|(+3)|
+|INT 10|(+0)|
+|WIS 10|(+0)|
+|CHA 12|(+1)|
+
+So for this build, we need to understand that [Xiota86](https://www.twitch.tv/xiota86) is a bit of a loud person. If she was a Pokemon, she would be a Yelly/Shouty-type Pokemon. She also occasionally sings to herself about pennies a day keeping her from something called Retail?
+
+Anywho, we're starting with a [Half-Orc](https://2e.aonprd.com/Ancestries.aspx?ID=8). Not that we're calling Xiota a half-orc, but for this build half-orc works best.
+
+From a racial standpoint, we picked [Orc Ferocity](https://2e.aonprd.com/Feats.aspx?ID=83) which allows us to avoid getting knocked out when we get reduced to 0 hit points once a day. It also serves as a prereq for something later on.
+
+For our Background, we picked [Barker](https://2e.aonprd.com/Backgrounds.aspx?ID=136) which means Xiota's character probably shouted at people a lot for a living. She also learned that sometimes, speaking in her "Dommy Mommy" voice was just as, or even more effective than yelling. In fact, thanks to her [Group Coercion](https://2e.aonprd.com/Feats.aspx?ID=788) feat from her Background, she can [Coerce](https://2e.aonprd.com/Actions.aspx?ID=52) two targets at once.
+
+For the Monk part, we picked [Mountain Stance](https://2e.aonprd.com/Feats.aspx?ID=435) and plan to fight unarmed. When we enter this stance during combat, we gain a bonus to our AC as if we were wearing breastplate armor!
+
+Here is the [1st-level character sheet](builds/xiota-the-angy-monk/monk01.pdf).
+
+For skills, we're trained (read: Proficient) in the following: Acrobatics, Athletics, Intimidation, Lore: Crowd, Society, and Surival.
+
+For gear, we're just in monk robes and punching. We use our fists to solve our problems.
+
+In combat, generally we'll want to use [Mountain Stance](https://2e.aonprd.com/Feats.aspx?ID=435) to get that nice AC bonus, and [Flurry of Blows](https://2e.aonprd.com/Actions.aspx?ID=9) to attack. We'll also want to use [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) in combat to frighten our opponents and give them a small debuff.
+
+---
+
+At this point, we've increased our angry monk to Level 5. We're still sticking with being unarmored and using our fists to attack, and we'll use minimal gear later to show what a build like this can do.
+
+Multiclassing in Pathfinder 2E works differently than in DnD 5E. In Pathfinder, its a series of feats you select. You never "sacrifice" levels of your class to multiclass. For Xiota's monk, we take the [Barbarian Dedication](https://2e.aonprd.com/Feats.aspx?ID=671) to really begin the path of the angry fist. We gain the [Rage](https://2e.aonprd.com/Actions.aspx?ID=3) action which makes us rage just like a Barbarian.
+
+We increase our speed thanks to [Fleet](https://2e.aonprd.com/Feats.aspx?ID=784) which stacks with our speed increase for being a Monk. Our unarmed strikes also count as magical weapons now.
+
+Next we select [Basic Fury](https://2e.aonprd.com/Feats.aspx?ID=673) and [Raging Intimidation](https://2e.aonprd.com/Feats.aspx?ID=132) which allows us to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) even while we're raging! Our ability to Intimidate got even stronger with [Intimidating Prowess](https://2e.aonprd.com/Feats.aspx?ID=797) when we can Intimidate with our physical presence!
+
+Finally, we select [Bloody Blows](https://2e.aonprd.com/Feats.aspx?ID=1288) which makes it so when we crit with our fists, we cause persistent bleed damage on our targets.
+
+For combat, we'll still try to use [Mountain Stance](https://2e.aonprd.com/Feats.aspx?ID=435) and [Flurry of Blows](https://2e.aonprd.com/Actions.aspx?ID=9), but now we can also [Rage](https://2e.aonprd.com/Actions.aspx?ID=3) and are pretty good at using [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) too.
+
+This is what our stats look like now:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 19|(+4)|
+|DEX 14|(+2)|
+|CON 18|(+3)|
+|INT 10|(+0)|
+|WIS 10|(+0)|
+|CHA 14|(+2)|
+
+We're also now Expert Proficiency in the following: Athletics and Intimidation.
+
+Here is the [5th level character sheet](builds/xiota-the-angy-monk/monk05.pdf).
+
+---
+
+Now, we've increased Smashy to level 10, and a few more things have been added.
+
+We've added [Instinct Ability](https://2e.aonprd.com/Feats.aspx?ID=675) and [Sudden Charge](https://2e.aonprd.com/Feats.aspx?ID=134) which allows us to move twice, attack once, and still have something to do in on our turn. Our ability to Intimidate has grown, thanks to [Terrifying Resistance](https://2e.aonprd.com/Feats.aspx?ID=2153) that when we [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) someone, we gain a bonus to save against their spells for 24 hours.
+
+We then added [Battle Cry](https://2e.aonprd.com/Feats.aspx?ID=759) which gives us a free action to [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) a foe we can see when we roll initiative. We also made our Will saves a bit better and our fists do a little more damage too.
+
+Adding [Mountain Stronghold](https://2e.aonprd.com/Feats.aspx?ID=453) gives us a way to gain even more AC bonus when in [Mountain Stance](https://2e.aonprd.com/Feats.aspx?ID=435). Also when we get a critical success when we [Demoralize](https://2e.aonprd.com/Actions.aspx?ID=53) someone lower level than us, we cause them to flee for 1 round thanks to [Terrified Retreat](https://2e.aonprd.com/Feats.aspx?ID=853). I think Smashy says something along the lines of *"Gimme your f$(+@! monnies!"*.
+
+Next is [Undying Ferocity](https://2e.aonprd.com/Feats.aspx?ID=1291) which adds temporary hit points when [Orc Ferocity](https://2e.aonprd.com/Feats.aspx?ID=83) is used, giving us a little buffer and getting us right back in the fight. Our fists are also now treated as cold iron and silver too, allowing us to damage supernatural creatures such as demons, devils, and fey.
+
+Finally, we finish up level 10 with [Prevailing Position](https://2e.aonprd.com/Feats.aspx?ID=1749), a Reaction that lets us drop our stance to gain a huge bonus to AC or Reflex saves against the triggering attack. We also picked [Quick Climb](https://2e.aonprd.com/Feats.aspx?ID=821) to cover more distance when climbing things.
+
+For combat, all the previous things we can do are still valid, however we have a few more defensive options with [Mountain Stronghold](https://2e.aonprd.com/Feats.aspx?ID=453) and [Prevailing Position](https://2e.aonprd.com/Feats.aspx?ID=1749) now too.
+
+Our fists at this point, with simple weapon upgrades have a +20 to hit our opponents and deal 2d8+7 points of damage each. If we [Rage](https://2e.aonprd.com/Actions.aspx?ID=3), we gain 14 temporary hit points and an extra +2 damage.
+
+This is what our stats look like now:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 20|(+5)|
+|DEX 16|(+3)|
+|CON 19|(+4)|
+|INT 10|(+0)|
+|WIS 10|(+0)|
+|CHA 16|(+3)|
+
+We're also now Master Proficiency in the following: Athletics and Intimidation.
+
+Here is the [10th level character sheet](builds/xiota-the-angy-monk/monk10.pdf).

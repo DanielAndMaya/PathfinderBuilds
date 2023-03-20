@@ -10,5 +10,6 @@ language:
 rmd_subdir: true
 rmd_files: [
   "index.Rmd",
-  "builds/pinky-the-catfolk-druid/catfolkdruid.Rmd"
+  "builds/pinky-the-catfolk-druid/catfolkdruid.Rmd",
+  "builds/xiota-the-angy-monk/angymonk.Rmd"
 ]
