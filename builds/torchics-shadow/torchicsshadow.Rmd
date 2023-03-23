@@ -1,0 +1,70 @@
+# Torchic's Shadow
+
+*Build concept:* A stealth, sniper ranger that uses the power of shadow to incredible advantages.
+
+This build is for [TorchedHulk (aka Torchic)](https://www.twitch.tv/torchedhulk). It assumes no prior knowledge to table top RPGs.
+
+```{r echo=FALSE, fig.cap="A fetchling ranger", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/torchics-shadow/torchic.jpg")
+```
+
+*Books offer an escape. A door into worlds unfamiliar to us. A way for us to imagine things we might dream of. But when you are born and raised in something called the Shadow Plane, you could imagine that your world lacks a certain degree of color. Whatever you do, don't ask the local librarians here if they have copies of "50 Shades of Grey", they don't have any more patience for that joke.*
+
+*But something caught your interest one day at the library when you were young. You see, the Shadow Plane exists as a shadowy mirror of the real one. Travel between the two planes is possible, and some shadow cities serve as trade hubs between them. It's here in that library where you found a book that contained information about the Material Plane and Nature. You were fascinated by it. Such vibrant colors you've never seen before amazed you. You began to spend most of your time reading everything you could about Nature; the trees, fauna, flowers, etc. After several years, even though you had no formal training, you were quite knowledgeable about it.*
+
+*But as you grew older, you began to tire of reading about it, and grew more of a desire in seeing it in person. What must it be like to be surrounded by such colors every day?*
+
+*You eventually became friends a ranger adventurer who was impressed with your knowledge and eagerness to learn more. He agreed to take you under his wing for a bit to show you not just the Material Plane and the wonders of Nature, but also the Path of the Ranger. Little did he realize that your being a child of shadow would provide an incredible advantage to being a Ranger.*
+
+*This is an example character backstory, feel free to come up with your own.*
+
+---
+
+We'll talk about what the character is capable of, then we can talk about the finer things like ability scores and statistics. If you don't like how this character sounds, there's really no point in knowing what it's "Dexterity" score is, is there?
+
+From our little lore backstory above, our race is something called a [Fetchling](https://2e.aonprd.com/Ancestries.aspx?ID=30). In this world, during a great catastrophe a mysterious hooded figure appeared and offered some humans refuge in the Shadow Plane. However, over generations, living on the Shadow Plane turned these humans into Fetchlings. One cool think about Fetchlings is that they can see just fine in the dark. This [Darkvision](https://2e.aonprd.com/MonsterAbilities.aspx?ID=12), only allows you to see in black and white (think night vision goggles, but in white/black instead of green/black) but provides a supreme advantage during the night. You don't suffer any penalties for being in bright or sunny light.
+
+Our Fetchling in particular, comes from a line know as [Liminal Fetchling](https://2e.aonprd.com/Heritages.aspx?ID=122) which makes us slightly better at finding undetected creatures within 60 feet of us and makes us easier to target them, despite being undetected.
+
+We also have a way to draw shadows to us when we're hiding thanks to [Shadow Blending](https://2e.aonprd.com/Feats.aspx?ID=2502) when someone attempts to try and locate us in low/no light conditions. Remember, we can see in total darkness, they often can't.
+
+Our time spent in the library studying those nature books is what gives us our [Scholar (Nature)](https://2e.aonprd.com/Backgrounds.aspx?ID=36) background. It makes us quite a bit knowledable on all things related to Nature.
+
+Finally the time we spent with our Ranger mentor is what gives us our [Ranger](https://2e.aonprd.com/Classes.aspx?ID=9) class. A big thing that Rangers can do is select a creature or person to be their "prey". Once selected as prey, the Ranger gets several bonuses to ensure they can take down that prey.
+
+In particular, we're also going with  [Outwit](https://2e.aonprd.com/HuntersEdge.aspx?ID=3) for our Ranger's specialization. This gives us even more extra bonuses to being sneaky against whoever or whatever we selected as our "prey".
+
+We also picked [Crossbow Ace](https://2e.aonprd.com/Feats.aspx?ID=491) here which makes it so a crossbow is going to be our primary weapon. Remember you can still carry around other weapons, just that we'll want to use our crossbow as much as we can since we'll pick options for it. Crossbow Ace makes it so that we now deal more than twice the damage we did before with a crossbow.
+
+All of the above happens at level 1.
+
+In combat, in general you'll want mark someone as your "Prey" first to gain those bonuses against that enemy. An enemy marked as your prey stays that way until your prey is dead or you decide to mark someone else. From then, you'll want to use your crossbow to shoot your enemies over other weapons. Your crossbow on your "Prey" has a range of up to 240 feet away before it starts becoming difficult to hit your target. Even at level 1, this is a pretty far distance. 
+
+---
+
+Now we're increased our level to 5. We've added in a few more options! 
+We've added an ability to cast a spell called [Gravity Weapon](https://2e.aonprd.com/Feats.aspx?ID=1763), it only lasts a minute when we cast it, but it adds even more damage to our first shot we take every turn. That extra damage will really add up over time. Thanks to [Experienced Tracker](https://2e.aonprd.com/Feats.aspx?ID=780), we can now track someone or something without it slowing us down. We also move a little bit faster each turn thanks to [Fleet](https://2e.aonprd.com/Feats.aspx?ID=784).
+
+One cool trick we've also picked up is [Running Reload](https://2e.aonprd.com/Feats.aspx?ID=504). Normally, reloading a crossbow takes a bit of time; it's certainly not as fast a bow right? But with Running Reload, we can now move AND reload at the same time, enabling us to shoot even more.
+
+[Shadow Mark](https://2e.aonprd.com/Feats.aspx?ID=2150) makes it even more difficult to notice us if we're following someone.
+
+Finally, we wrap up level 5 by picking [Clever Shadow](https://2e.aonprd.com/Feats.aspx?ID=2506), which gives us a cool trick in that we can perform simple interactions like opening doors with our own shadow. This also serves as a prereq for something else at level 10.
+
+For combat, you'll still want to mark someone as "Prey" first. But now, you also have that [Gravity Weapon](https://2e.aonprd.com/Feats.aspx?ID=1763) spell, that can add a lot of damage over time. We also move and shoot much better thanks to [Running Reload](https://2e.aonprd.com/Feats.aspx?ID=504).
+
+---
+
+Now we're level 10. We added more options now.
+
+First up is [Far Shot](https://2e.aonprd.com/Feats.aspx?ID=502), which doubles how far we can shoot with our crossbow before it starts getting difficult. If we target our "Prey", we can shoot up to a whopping 480 feet away before penalties start applying to our shots! Even a Legolas style Ranger with a longbow would only be able to reach 400 feet before penalties. We also picked [Forager](https://2e.aonprd.com/Feats.aspx?ID=786) which makes it way easier to find food in Nature, ensuring that we can stay staked out waiting for our target without worrying about running out of food and water.
+
+[Skitter](https://2e.aonprd.com/Feats.aspx?ID=2151) makes us able to crawl up to 15 feet instead of 5 feet at a time. This would be important when staying prone on the ground for shooting purposes.
+
+As we get close to level 10 we get [Blind-Fight](https://2e.aonprd.com/Feats.aspx?ID=388), which makes our already heightened ability to detect hidden creatures even better. At this point even being invisible doesn't offer protection against your senses. Thanks to [Swift Sneak](https://2e.aonprd.com/Feats.aspx?ID=850), moving around stealthly doesn't slow us down at all anymore. 
+
+[Hefting Shadow](https://2e.aonprd.com/Feats.aspx?ID=2510) turns our shadow into a small portable bank! Think of the Campfire Cooking anime and Mudouka's Item Box skill. Basically that but its your shadow instead of just in the air. Perfect for smuggling your crossbow into areas where you are not allowed to have weapons.
+
+Finally at level 10  we get [Camouflage](https://2e.aonprd.com/Feats.aspx?ID=519). We're so good at stealth now, that we can hide and sneak around even without cover! Think of a "hide in plain sight" ability. Paired with [Foil Senses](https://2e.aonprd.com/Feats.aspx?ID=785), we make it so that even if enemies can detect us using other senses (like echolocation, or sensing heartbeats, etc.) those methods no longer become an easier way to find us. Those will be just as difficult as trying to find us visually.
+
+For combat, all our previous options still work, but now thanks to [Far Shot](https://2e.aonprd.com/Feats.aspx?ID=502) we can hit targets almost 1.5 football fields away before it starts getting difficult to shoot targets. Our speed and stealth capabilities should make it easy to have a mobile, run and gun type character whose opponents will be dead before they can reach you. Even if they get close, the powers related to our shadows make it more difficult than normal to find us.
