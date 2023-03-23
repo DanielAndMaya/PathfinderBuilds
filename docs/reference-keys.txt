@@ -7,3 +7,4 @@ druids
 xiota86s-angy-monk
 monks
 torchics-shadow
+rangers
