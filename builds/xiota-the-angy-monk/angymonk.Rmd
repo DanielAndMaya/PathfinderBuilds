@@ -3,7 +3,7 @@
 *Build concept:* A very loud, raging, half-orc monk.
 
 ```{r echo=FALSE, fig.cap="Smashy the angry half-orc monk", out.width = '75%', fig.align='center', fig.pos = 'H'}
-knitr::include_graphics("builds/xiota-the-angy-monk/smashy.jpg")
+knitr::include_graphics("builds/xiota-the-angy-monk/Xiota-portrait.png")
 ```
 
 - [1st level character sheet](builds/xiota-the-angy-monk/monk01.pdf)

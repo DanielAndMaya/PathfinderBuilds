@@ -3,7 +3,7 @@
 *Build concept:* A druid that can beat you unmercifully, but also take care of you afterwards.
 
 ```{r echo=FALSE, fig.cap="A catfolk", out.width = '75%', fig.align='center', fig.pos = 'H'}
-knitr::include_graphics("builds/pinky-the-catfolk-druid/catfolk.png")
+knitr::include_graphics("builds/pinky-the-catfolk-druid/Pinky-portrait.png")
 ```
 - [1st level character sheet](builds/pinky-the-catfolk-druid/druid01.pdf)
 - [5th level character sheet](builds/pinky-the-catfolk-druid/druid05.pdf)

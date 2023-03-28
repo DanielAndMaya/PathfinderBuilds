@@ -5,7 +5,7 @@
 This build is for [TorchedHulk (aka Torchic)](https://www.twitch.tv/torchedhulk). It assumes no prior knowledge to table top RPGs.
 
 ```{r echo=FALSE, fig.cap="A fetchling ranger", out.width = '75%', fig.align='center', fig.pos = 'H'}
-knitr::include_graphics("builds/torchics-shadow/torchic.jpg")
+knitr::include_graphics("builds/torchics-shadow/Torchic-portrait.png")
 ```
 
 *Books offer an escape. A door into worlds unfamiliar to us. A way for us to imagine things we might dream of. But when you are born and raised in something called the Shadow Plane, you could imagine that your world lacks a certain degree of color. Whatever you do, don't ask the local librarians here if they have copies of "50 Shades of Grey", they don't have any more patience for that joke.*

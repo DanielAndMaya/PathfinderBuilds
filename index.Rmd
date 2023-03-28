@@ -33,6 +33,7 @@ Here are our Pathfinder TTRPG builds! We make these Pathfinder TTRPG builds live
 ### Monks
 
 - [Xiota86's Angy Monk] - A Half-Orc Monk that yells, rages, and punches a lot.
+- [TheRealGameflamingo's Monk-ey] - A Dragonball-inspired Vanaran Monk that has chargeable attacks.
 
 ### Rangers
 
