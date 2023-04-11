@@ -39,3 +39,6 @@ Here are our Pathfinder TTRPG builds! We make these Pathfinder TTRPG builds live
 
 - [Torchic's Shadow] - A Fetchling Ranger that specializes in stalking and singling out their prey with extreme long range crossbow shots.
 
+### Summoners
+
+- [ Soup's God of Recycling] - A Goblin Summoner who believes he's the "God of Recycling" deprived of his godhood.
