@@ -1,0 +1,106 @@
+# TheRealGameflamingo's Monk-ey
+
+*Build concept:* A Dragonball-style Saiyan-inspired monk with attacks that can "charge" to deal more damage.
+
+This build is for [TheRealGameflamingo](https://www.twitch.tv/TheRealGameflamingo). It assumes no prior knowledge to table top RPGs.
+
+```{r echo=FALSE, fig.cap="Radesha the Vanara Monk", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/mingos-monk-ey/Mingo-portrait.png")
+```
+
+*Radesha ("Rad-esh-uh") always knew she was different, that she was destined for greatness. Her fur color was evident of that. Vanarans are typically born with tan, brown, golden, or black fur, but pink?! That kind of thing only happens in animes! Surely this must mean she's the main character or something right?*
+
+*From the moment she realized she was special, she began to train. Her body must be tough and strong like iron, and her wit sharp as a knife. Even with little guidance, she trained.*
+
+*It wasn't long before she found a special monastery that took her training to another level. But after a few years, she learned all that she could there. Soon after she ventured off into the world to begin the next chapter in her life. You could say that this would be episode 1 of her own series.*
+
+*This is an example character backstory, feel free to come up with your own name and backstory.*
+
+---
+
+*design note: I'll be referencing Dragonball a lot since that was the source material for this character idea.*
+
+We'll talk about what the character is capable of, then we can talk about the finer things like ability scores and statistics. If you don't like how this character sounds, there's really no point in knowing what it's "Dexterity" score is, is there?
+
+From our little backstory, our race is called [Vanara](https://2e.aonprd.com/Ancestries.aspx?ID=55), a race of monkey-like humanoids; think of the 1968 film Planet of the Apes and you've got a close approximation. Vanarans are said to be born of the monkey god Ragdya's antics to help spread and applaud his mischief. One cool thing about Vanarans is that they have a Prehensile Tail, which allows them to perform simple Interact actions such as pulling a level or opening a door with it.
+
+Radesha is also part of the [Ragdyan Vanara](https://2e.aonprd.com/Heritages.aspx?ID=223) Heritage which gives her a single defensive divine cantrip spell to use. We picked [Shield](https://2e.aonprd.com/Spells.aspx?ID=280) to help protect her in combat.
+
+Radesha though worships the god [Kurgess](https://2e.aonprd.com/Deities.aspx?ID=42), The Strong Man. Kurgess encourages healthy competition, self betterment and seeking your own full potential. Kurgess frowns on cheating in honorable contents, disrespecting defeated enemies (tl;dr no t-bagging them), and reckless destruction. Sounds like a certain noble Saiyan I've seen before. How Radesha came to worship Kurgess? That's up to TheRealGameflamingo to decide.
+
+We spent a lot of time doing a ton of physical training which is what led to the [Martial Disciple (Athletics)](https://2e.aonprd.com/Backgrounds.aspx?ID=24) Background. This also makes Radesha a little better at High Jumps and Long Jumps too.
+
+As we began our [Monk](https://2e.aonprd.com/Classes.aspx?ID=8) training, we learned [Ki Strike](https://2e.aonprd.com/Feats.aspx?ID=433), which gives us a way to enhance our fists causing our punches to do more damage for 1 turn. It also serves as a prerequisite for other ki-related blasts in the future.
+
+All of the above happens at level 1.
+
+In combat, Radesha likes to get up close and personal with her opponents. She'll typically use her Monk's [Flurry of Blows](https://2e.aonprd.com/Actions.aspx?ID=9) to attack multiple times. She could also use [Ki Strike](https://2e.aonprd.com/Feats.aspx?ID=433) once per combat to give her fists different damage for 1 turn. She'll also have enough actions to also use [Shield](https://2e.aonprd.com/Spells.aspx?ID=280) which boosts her defense and once per combat allows her to block damage with it.
+
+---
+
+By level 5, we've added a few more Dragonball-themed options. First is [Gorilla Stance](https://2e.aonprd.com/Feats.aspx?ID=1733), it gives us stronger damage and a few other perks, but I mean, its fits so well here, how can we not take it?
+
+I think DB characters are often talking smack to each other too, so we also picked [Bon Mot](https://2e.aonprd.com/Feats.aspx?ID=2114) which gives Radesha a way to talk smack to her opponents, potentially distracting and debuffing them to make more vulnerable to mental effects.  We also picked up the popular [Fleet](https://2e.aonprd.com/Feats.aspx?ID=784) to move faster.
+
+I've also seen DB characters swat ranged attacks away from them and [Deflect Arrow](https://2e.aonprd.com/Feats.aspx?ID=443) let's us do just that. It gives us a massive bonus to our defense which someone tries a physical ranged attack against us. It also is another prerequisite for something cooler later on.
+
+```{r echo=FALSE, fig.cap="Deflecting ranged attacks", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/mingos-monk-ey/deflect.png")
+```
+
+[Powerful Leap](https://2e.aonprd.com/Feats.aspx?ID=820) gives us a little more distance when we do High Jumps and Long Jumps.
+
+We wrap things up with [Darting Monkey](https://2e.aonprd.com/Feats.aspx?ID=4006) by level 5. Sometimes DB characters have to fight two or more opponents at once, which isn't a great spot to be in. With Darting Monkey though, if we're ever in such a flanked position, simply hitting them makes them lose any bonuses they would get for flanking as long as they are the same level or lower than us.
+
+For combat, we're still going to use the above as mentioned before, but we've added [Bon Mot](https://2e.aonprd.com/Feats.aspx?ID=2114) for a debuff to our opponents and [Deflect Arrow](https://2e.aonprd.com/Feats.aspx?ID=443) to help protect us against ranged attacks.
+
+---
+
+Now by level 10, the build is starting to come into fruition.
+
+We kick off level 6 with [Ki Blast](https://2e.aonprd.com/Feats.aspx?ID=452). This is our closest thing to a Kamehameha blast in Pathfinder. The way it works is that depending on how many actions we spend doing it, the blast itself gets bigger and deals more damage.
+
+In Pathfinder, when its your turn in combat, you get 3 actions and 1 reaction. Essentially everything you do takes 0 to 3 actions in combat. For example, drawing your weapon takes 1 action. Attacking takes 1 action. Casting a spell takes 0-3 actions depending on the spell, but a large majority of spells take 2 actions. Our [Shield](https://2e.aonprd.com/Spells.aspx?ID=280) spell, takes only 1 action.
+
+For our [Ki Blast](https://2e.aonprd.com/Feats.aspx?ID=452) spell though, it takes 1 to 3 actions to perform:
+
+- If we spend only 1 action to use it, we deal some damage in a 15-foot cone in front of us.
+- If we spend 2 actions to use it, we deal a little more damage in a 30-foot cone.
+- If we spend all 3 actions, we deal even more damage in a giant 60-foot cone!
+
+The only downside here is that we can only really do this up to 2 times in combat before we run out of Ki (Focus Points).
+
+```{r echo=FALSE, fig.cap="when you 3 action Ki Blast", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/mingos-monk-ey/blast.png")
+```
+
+We also take [No Cause For Alarm](https://2e.aonprd.com/Feats.aspx?ID=2139) which can help our allies who our frightened by enemies recover from the Frightened condition faster. [Fast Recovery](https://2e.aonprd.com/Feats.aspx?ID=782) makes it so we recover more hit points when resting and we recover from poisons and diseases even faster.
+
+At 8th level, we get our next chargeable attack, [One-Inch Punch](https://2e.aonprd.com/Feats.aspx?ID=1742). this attack takes 2 or 3 actions to perform, but adds more damage with the 3-action version. This damage grows at 10th level too.
+
+```{r echo=FALSE, fig.cap="Just like a punching machine", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/mingos-monk-ey/oneinchpunch.jpg")
+```
+
+We also get [Wall Jump](https://2e.aonprd.com/Feats.aspx?ID=863) which is what you think it is, it allows us to wall jump off walls!
+
+At 9th level, we select [Legendary Size](https://2e.aonprd.com/Feats.aspx?ID=4013) which gives Radesha the ability to grow to a Large size or shrink to Tiny size. Kinda like Saiyans do when they go ape mode.
+
+```{r echo=FALSE, fig.cap="not as large but close", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/mingos-monk-ey/greatape.jpg")
+```
+
+At 10th level, we picked [Arrow Snatching](https://2e.aonprd.com/Feats.aspx?ID=458). Remember [Deflect Arrow](https://2e.aonprd.com/Feats.aspx?ID=443) from before? Now what happens is that when we successfully use Deflect Arrows, we can now essentially **reflect** that attack back at the attacker! Imagine getting hit with your own crossbow bolt or arrow!
+
+We wrap things up with [Evangelize](https://2e.aonprd.com/Feats.aspx?ID=1180) which lets us spread the good word of the God of Swole Gains [Kurgess](https://2e.aonprd.com/Deities.aspx?ID=42) during combat. If successful, we give the target the [Stupefied](https://2e.aonprd.com/Conditions.aspx?ID=37) condition which negatively affects mental skills and has a small chance to disrupt enemy spellcasting!
+
+In combat, previous options still are a thing, but we have even more offensive options with [Ki Blast](https://2e.aonprd.com/Feats.aspx?ID=452) and [One-Inch Punch](https://2e.aonprd.com/Feats.aspx?ID=1742). 
+
+- A 3-action Ki Blast deals a whopping 8d6 damage to everything in a 60-foot cone in front of Radesha.
+- A 3-action One-Inch Punch deals an amazing 6d8+6 damage if we're in our [Gorilla Stance](https://2e.aonprd.com/Feats.aspx?ID=1733).
+
+We also have [Legendary Size](https://2e.aonprd.com/Feats.aspx?ID=4013) which if we use it to grow to Large size we gain a small boost to damage and increase our reach by 5 feet at the cost of being a little easier to hit and slower.
+
+Our [Shield](https://2e.aonprd.com/Spells.aspx?ID=280) can block up to 15 damage if we use it for that purpose, and for ranged attacks [Arrow Snatching](https://2e.aonprd.com/Feats.aspx?ID=458) will let us swat that attack back at our opponent. 
+
+We have [Bon Mot](https://2e.aonprd.com/Feats.aspx?ID=2114) and [Evangelize](https://2e.aonprd.com/Feats.aspx?ID=1180) for speech-based debuffs during combat too. If our allies get frightened, we can potentially help them with [No Cause For Alarm](https://2e.aonprd.com/Feats.aspx?ID=2139).

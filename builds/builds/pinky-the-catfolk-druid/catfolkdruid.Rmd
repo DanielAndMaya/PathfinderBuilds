@@ -1,0 +1,85 @@
+# PinkyTheImposter's Catfolk Druid
+
+*Build concept:* A druid that can beat you unmercifully, but also take care of you afterwards.
+
+```{r echo=FALSE, fig.cap="A catfolk", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/pinky-the-catfolk-druid/Pinky-portrait.png")
+```
+- [1st level character sheet](builds/pinky-the-catfolk-druid/druid01.pdf)
+- [5th level character sheet](builds/pinky-the-catfolk-druid/druid05.pdf)
+
+Here's our starting stats:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 16|(+3)|
+|DEX 12|(+1)|
+|CON 14|(+2)|
+|INT 10|(+0)|
+|WIS 16|(+3)|
+|CHA 10|(+0)|
+
+So for this build, we're selecting something that [PinkyTheImposter](https://www.twitch.tv/pinkytheimposter) (Pinky) expressed interested in, [Catfolk](https://2e.aonprd.com/Ancestries.aspx?ID=17). The equivalent in 5E is a Tabaxi.
+
+From a racial standpoint, they have roughly the same lifespan as humans, and bonuses to Dexterity and Charisma. They have low-light vision instead of Darkvision. They don't have the Feline Agility, Cat's Claws, or Cat's Talent features (although some of these can be obtained with Heritage or Ancestry Feats). Instead they only take half damage from falling and never land prone.
+
+For our Heritage (sub-race) we picked [Hunting Catfolk](https://2e.aonprd.com/Heritages.aspx?ID=59), this gives us a way to detect creatures via scent, although not perfectly. We also get a bonus to track creatures during Exploration Mode.
+
+For our Ancestry Feat, we selected [Cat's Luck](https://2e.aonprd.com/Feats.aspx?ID=1253) which gives us a Reaction when we fail a Reflex (Dexterity) saving throw, giving us another roll and another chance to save against it.
+
+For our Background, we picked [Farmsteader](https://2e.aonprd.com/Backgrounds.aspx?ID=273). We imagined that before the adventuring life, our Catfolk was content with a small little home in the woods we made ourselves. One of our hobbies is cooking, so we learned to farm for ourselves in addition to getting pretty good at foraging. In fact, we've gotten so good at finding food, we always find something, and its quite easy for us to find several meals worth of food in a single hunt.
+
+For the Druid part, we're working with a two-handed build. Because we're a Druid we're a bit limited in our options for weapons but a staff can be used two-handed and is fitting for our Druid. We can also hang little decorations off the end of the staff to make it more like a cat toy than any other weapon.
+
+Anywho, here is the [1st-level character sheet](builds/pinky-the-catfolk-druid/druid01.pdf).
+
+We selected [Stone Order](https://2e.aonprd.com/DruidicOrders.aspx?ID=6) for our Druid as this gives us a few cool things. It makes our Catfolk get better results when we make successful Acrobatics checks to balance on uneven surfaces made of earth or rock. We also are harder to Shove, Trip, or be knocked prone as long as we're touching the ground. Also we get a cool focus spell called [Crushing Ground](https://2e.aonprd.com/Spells.aspx?ID=1053) which lets us open the earth to close it on a target up to 60 feet away for bludgeoning damage. One can say, that this order rocks! (sorry)
+
+For skills we're trained (read: Proficient) in the following: Athletics, Crafting, Lore: Farming, Medicine, Nature, and Survival.
+
+For spells, we have two offensive damage cantrips [Electric Arc](https://2e.aonprd.com/Spells.aspx?ID=97) and [Produce Flame](https://2e.aonprd.com/Spells.aspx?ID=236). We picked two utility cantrips, [Light](https://2e.aonprd.com/Spells.aspx?ID=171) and good ol' [Prestidigitation](https://2e.aonprd.com/Spells.aspx?ID=229). We also have an offensive debuff spell with [Tanglefoot](https://2e.aonprd.com/Spells.aspx?ID=330).
+
+For our 1st level spells, we have [Shillelagh](https://2e.aonprd.com/Spells.aspx?ID=282) and [Longstrider](https://2e.aonprd.com/Spells.aspx?ID=175).
+
+Spells can be changed each day, these are just some of the ones we memorized right off the bat.
+
+For gear we went with our Cat Toy Staff, and some Hide Armor.
+
+In combat, we'll want to wield our Cat Toy Staff in two-hands for more damage. If the fight seems challenging, our Catfolk Druid should cast [Shillelagh](https://2e.aonprd.com/Spells.aspx?ID=282) first. 
+
+Normally, when we use Strike to attack our opponents, we get a +6 bonus to hit their Armor Class. If we hit we will deal 1d8+3 points of damage.
+
+When [Shillelagh](https://2e.aonprd.com/Spells.aspx?ID=282) is in effect, we instead get a +7 to hit, and we now deal a whopping 2d8+3 points of damage. Oh and if the target is an afront to nature (aberration, extraplanar, or undead), the damage increases to 3d8+3 damage instead!
+
+---
+
+At this point, we've increased our Catfolk Druid to Level 5. We're still sticking with the Cat Toy Staff and Hide Armor to show what a build can look like without much special/magical gear.
+
+We've picked feats such [Verdant Weapon](https://2e.aonprd.com/Feats.aspx?ID=1711) to always have a way to "grow" a new staff in case something happens to our current one. This also is a requirement for a feat at level 10. We also picked [Additional Lore: Cooking](https://2e.aonprd.com/Feats.aspx?ID=750) to be even better at cooking the food we hunt.
+
+We also picked [Continual Recovery](https://2e.aonprd.com/Feats.aspx?ID=771) to make it so we can make Medicine checks to heal our allies once every 10 minutes. Thanks to the cantrip [Healing Plaster](https://2e.aonprd.com/Spells.aspx?ID=925), we're always considered to have a healer's tools with us with just a little bit of dirt or mud.
+
+As we approach 5th level, we also select [Sheltering Cave](https://2e.aonprd.com/Feats.aspx?ID=2975) to have the ability to create a small cave or earthen mound as a 20-foot diameter, 10-foot high shelter. We also picked [Seasoned](https://2e.aonprd.com/Feats.aspx?ID=2149) making us even better at cooking and now giving us the ability to make certain potions!
+
+As we hit 5th level, we gain several ability boosts and we pick [Expanded Luck](https://2e.aonprd.com/Feats.aspx?ID=1259) for our Ancestry Feat. This gives our [Cat's Luck](https://2e.aonprd.com/Feats.aspx?ID=1253) Reaction ability usable on ANY saving throw once per day.
+
+For spells and combat, we can cast up to 3rd level Primal spells, we'll often pick [Enlarge](https://2e.aonprd.com/Spells.aspx?ID=102) to grow to Large size and gain a reach of 10 feet and deal +2 more damage.
+
+Our Cat Toy Staff now has a +11 to hit our opponents and thanks to a small magical upgrade ([Striking Rune](https://2e.aonprd.com/Equipment.aspx?ID=280)), we now deal 2d8+4 damage.
+
+If we buff ourselves with [Shillelagh](https://2e.aonprd.com/Spells.aspx?ID=282) and [Enlarge](https://2e.aonprd.com/Spells.aspx?ID=102), our Cat Toy boops increases to +12 to hit, and 3d8+6 to 4d8+6 damage with 10 foot reach!
+
+This is what our stats look like now:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 18|(+4)|
+|DEX 14|(+2)|
+|CON 16|(+3)|
+|INT 10|(+0)|
+|WIS 18|(+4)|
+|CHA 10|(+0)|
+
+We're also now Expert Proficiency in the following: Athletics, Lore: Cooking, and Medicine.
+
+Here is the [5th-level character sheet](builds/pinky-the-catfolk-druid/druid05.pdf).

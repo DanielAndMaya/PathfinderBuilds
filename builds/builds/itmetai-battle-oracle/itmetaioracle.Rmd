@@ -1,0 +1,129 @@
+# ItMeTai's Battle Oracle
+
+*Build concept:* A reluctant follower/oracle of a god of war with a knack for bolstering allies.
+
+This build is for [ItMeTai](https://www.twitch.tv/ItMeTai)
+
+```{r echo=FALSE, fig.cap="ItMeTai's Battle Oracle", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/itmetai-battle-oracle/tai.jpg")
+```
+
+```{r echo=FALSE, fig.cap="ItMeTai's Battle Oracle", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/itmetai-battle-oracle/Tai-portrait.png")
+```
+
+- [1st level character sheet](builds/itmetai-battle-oracle/oracle01.pdf)
+- [5th level character sheet](builds/itmetai-battle-oracle/oracle05.pdf)
+- [10th level character sheet](builds/itmetai-battle-oracle/oracle10.pdf)
+
+Here's our starting stats:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 14|(+2)|
+|DEX 16|(+3)|
+|CON 12|(+1)|
+|INT 10|(+0)|
+|WIS 12|(+1)|
+|CHA 14|(+2)|
+
+So for this build, we're going for a ranged-type oracle, that will have a great degree of supporting allies of front of him.
+
+We're starting off with a [Human](https://2e.aonprd.com/Ancestries.aspx?ID=6) for this one. I like humans for characters because thanks to [Versatile Heritage](https://2e.aonprd.com/Heritages.aspx?ID=29) and [General Training](https://2e.aonprd.com/Feats.aspx?ID=68), we get 2 general feats to select at 1st-level. We'll take [Fleet](https://2e.aonprd.com/Feats.aspx?ID=784) for better movement speed, and [Weapon Proficiency](https://2e.aonprd.com/Feats.aspx?ID=866) for proficiency in martial weapons and as a prereq for something later.
+
+We've taken [Barrister](https://2e.aonprd.com/Backgrounds.aspx?ID=7) as our Background. We're imagining that before our character led allies in the field of battle, he previously fought battles in courts of law. But he may have gotten bored with something like that and decided to persue something more "hands-on".
+
+[Oracles](https://2e.aonprd.com/Classes.aspx?ID=14) are an interesting class. Essentially they are divine casters, that don't get their powers from dieties. You see, behind dieties there lies great mysteries that connect dieties together. Oracles directly access these Mysteries to fuel their powers. But these powers come at a cost in the form of a curse.
+
+When Oracles cast certain spells, their curse grows in strength. At first the effects of the curse are purely negative. However, continuing to cast certain spells progresses the curse where it starts giving strong benefits. It becomes a bit of a game of balance between managing a safe level of curse effects while dealing with its negative benefits.
+
+Because we're battle-focused, it fits to take the [Battle Mystery](https://2e.aonprd.com/Mysteries.aspx?ID=2). This Mystery gives us several benefits. First it gives us training (5E read: proficiency) in medium and heavy armor, although for our specific build we'll stick to light armor. This Mystery also gives us training with all weapons from a specific weapon group. Since we're going ranged here, we'll select Bows. We also get a Domain pick as part of our Mystery so we'll also pick [Zeal](https://2e.aonprd.com/Domains.aspx?ID=37) as our Mystery Domain. This gives us access to the [Domain Surge](https://2e.aonprd.com/Spells.aspx?ID=469) spell as a special Focus spell.
+
+For gear, at level 1 we'll just use a shortbow and leather armor.
+
+So, for our Battle Mystery, we're afflicted with the [Curse of the Hero's Burden](https://2e.aonprd.com/Spells.aspx?ID=469). All of the cosmos' worth of battle knowledge flows through our body and that takes a bit of a toll on us. For starters we'll always smell faintly of steel and blood, no matter how much we bathe or wear perfume to cover it up. We also hear the faint sounds and clamors of a battle in the distance at all times. Crazy huh?
+
+That's not all, whenever we cast either [Call to Arms](https://2e.aonprd.com/Spells.aspx?ID=748) or [Domain Surge](https://2e.aonprd.com/Spells.aspx?ID=469), we advance our curse.
+
+When we start our day, the curse is not active. We can go entire days or weeks without ever advancing it if we choose to do so. But the moment we cast either of those two spells, we advance the curse one stage.
+
+At the first stage (Minor Curse), our body gets antsy and craves hitting something. We'll take a -2 penalty to our AC and saving throws. However, whenever we make a successful attack against our opponents, we suppress this penalty until the start of our next turn. Once you've gotten the curse to this stage, we can't remove it until we rest for 8 hours (5E read: long rest).
+
+At the second stage (Moderate Curse), the strain continues, but it starts to provide benefits. When we attack the penalty to AC and saving throws drops to -1 instead of being suppressed.
+
+But the benefits are pretty sweet, we gain +2 damage to all our attacks now. In addition to that, we get [Fast Healing](https://2e.aonprd.com/Rules.aspx?ID=796) equal to half our level when we're in a non-trivial combat encounter. Fast Healing makes it so we regain that many hitpoints at the beginning of our turn. So Fast Healing 2 means we regain 2 hit points at the start of our turn. At level one, this isn't going to help much, but at higher levels we'll be able to take better advantage of it.
+
+For combat, whenever we are about to roll for initiative, we can cast [Call to Arms](https://2e.aonprd.com/Spells.aspx?ID=748) to grant a bonus to initiative and some temporary hit points for us and everyone within 20 feet of us. This progresses our curse ot the Minor Curse stage (-2 penalty to AC/saves). On our first turn, we'll want to cast [Domain Surge](https://2e.aonprd.com/Spells.aspx?ID=469) to give us a bonus to attack and extra damage and advance the curse to the Moderate Curse stage. After that, we'll support our allies with shortbow attacks or spells.
+
+After combat, we'll want to [Refocus](https://2e.aonprd.com/Actions.aspx?ID=71) (5E read: 10-minute short rest), to be able to use [Call to Arms](https://2e.aonprd.com/Spells.aspx?ID=748) again. Refocusing drops the curse back down to the Minor Curse stage too. Remember, we can't get rid of the curse entirely until we rest for 8 hours.
+
+If you try casting our two special spells while we're still in the Moderate Curse stage, we become overwhelmed. Nothing serious happens by being 
+overwhelmed but we can't use those special spells until we 8 hour rest again.
+
+All of the above happens at level 1.
+
+---
+
+Now we've increased our level to 5 and we've added in a few more options.
+
+First, we're dipping into the [Marshal Dedication](https://2e.aonprd.com/Feats.aspx?ID=2005) which is among my favorite archtypes. This gives our character a 10-foot aura that grants a small +1 bonus to saving throws against fear. We also picked up [Hefty Hauler](https://2e.aonprd.com/Feats.aspx?ID=790) which increases our carrying limit.
+
+Our character is always prepared, and the [Prescient Planner](https://2e.aonprd.com/Feats.aspx?ID=2143) ensures that we always have the right tool for the job. Essentially, this allows us to whip up a piece of adventuring gear (like rope, a crowbar, caltrops, grappling hook, etc.) on the fly even if we didn't declare that we purchased it previously. We can only do this once before we would need to go back to town to "recharge" this ability but it's a cool trick, and its a prereq for something later on.
+
+Next we pick [Inspiring Marshal Stance](https://2e.aonprd.com/Feats.aspx?ID=2007). This gives us an ability to enter in a special stance and make a special Diplomacy check. If we're successful in this check, we give our character and all allies within 10 feet a +1 bonus to attack rolls and saves against mental effects. If we're critically successful, then we grow our aura into a 20 foot range. We also picked up [Bon Mot](https://2e.aonprd.com/Feats.aspx?ID=2114) which lets us insult foes (using Diplomacy) to potentially debuff their Perception and Will saves.
+
+At 5th-level, we picked another [General Training](https://2e.aonprd.com/Feats.aspx?ID=68) and selected [Canny Acumen (Reflex)](https://2e.aonprd.com/Feats.aspx?ID=764) to improve our Reflex saves.
+
+For combat, the curse stuff mentioned before still applies, but we have a few more options now.
+
+After using [Call to Arms](https://2e.aonprd.com/Spells.aspx?ID=748) as soon as combat begins, our first turn we'll want to use [Inspiring Marshal Stance](https://2e.aonprd.com/Feats.aspx?ID=2007) followed by [Domain Surge](https://2e.aonprd.com/Spells.aspx?ID=469) and then an attack with our shortbow. If our stance is successful, we'll have an extra +1 bonus to attack rolls, and an extra die of damage +2 (e.g. 2d6+2) with our shortbow attack.
+
+We'll have that -2 penalty to AC and saves because of the curse, and if we hit we'll reduce it to a -1 penalty until the start of our next turn, but for the remainder of the combat we'll also have that extra +2 damage AND Fast Healing 2 which will make us a bit more difficult to kill.
+
+After that first turn, we'll continue to support our allies with shortbow attacks, [Bon Mot](https://2e.aonprd.com/Feats.aspx?ID=2114) attempts to debuff Will saves, and our spells which go up to 3rd-level spells now.
+
+This is what our stats look like now:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 14|(+2)|
+|DEX 18|(+4)|
+|CON 14|(+2)|
+|INT 10|(+0)|
+|WIS 14|(+2)|
+|CHA 16|(+3)|
+
+Here is the [5th level character sheet](builds/itmetai-battle-oracle/oracle05.pdf).
+
+---
+
+Now we've reached 10th-level and even more options have been added.
+
+First up is the Marshall's [Cadence Call](https://2e.aonprd.com/Feats.aspx?ID=2010). This can only be used once a minute, but each willing ally within your Marshall's aura gets an extra action on their turn that can only be used to move (potentially moving up to 4 times their next turn). The trade-off is that if they do use that extra action, they'll temporarily lose an action on their turn after that. This trick is a really neat ability to use if you need to reposition yourself or allies in a hurry.
+
+We also got [Continual Recovery](https://2e.aonprd.com/Feats.aspx?ID=771) which makes it so that we can use the Medicine skill to recover hit points after combat once every 10 minutes instead of once every hour. The Medicine skill in Pathfinder is much more effective than in 5E. It can be used for out-of-combat healing to a significant degree, saving precious spell slots for combat.
+
+Next is [Prescient Consumable](https://2e.aonprd.com/Feats.aspx?ID=2142). Remember that Planner trick from before? Now we can use it with consumable items. This means we can pull out things like a specific 3rd-level scroll, or an invisibility or shrinking potion in a pinch. Still only a "once per until we get back to town" ability, but super handy when you need something specific.
+
+We then pick up [To Battle!](https://2e.aonprd.com/Feats.aspx?ID=2013) from the Marshal. This can be used as either 1 action or 2 actions. When we use this, we can give one ally within our aura the ability to spend their Reaction to either move (1 action) or attack (2 actions). Like moving chess pieces, we're able to play a bit of action economy market and give our allies more moves and attacks overall.
+
+Humans have a cool trick they can do at level 9. They can opt into a multiclass option here. Yes, we're going with another multiclass option and since we're ranged we think the [Ranger Dedication](https://2e.aonprd.com/Feats.aspx?ID=722) would pair nicely here. It gives us access to the [Hunt Prey](https://2e.aonprd.com/Actions.aspx?ID=10) action. We essentially designed one target as our "prey" and we get small bonuses against it. Ranger was picked simply because it helps out ranged combat but it can be replaced by a number of the other class options.
+
+Finally at 10th-level, we pick the Ranger's [Basic Hunter's Trick](https://2e.aonprd.com/Feats.aspx?ID=723) which we pair with [Gravity Weapon](https://2e.aonprd.com/Feats.aspx?ID=1763). This spell gives even more damage to our shortbow for 1 minute. We also get [Advanced First Aid](https://2e.aonprd.com/Feats.aspx?ID=2107) which now lets us deal with allies' frightened or sickened conditions in addition to bleeding.
+
+For combat, all the options from before still apply. But we've now added [Cadence Call](https://2e.aonprd.com/Feats.aspx?ID=2010) and [To Battle!](https://2e.aonprd.com/Feats.aspx?ID=2013) as situationals. We also now have [Gravity Weapon](https://2e.aonprd.com/Feats.aspx?ID=1763) and [Hunt Prey](https://2e.aonprd.com/Actions.aspx?ID=10) to use now as well. We can cast up to 5th-level spells too.
+
+After combat, we have [Prescient Consumable](https://2e.aonprd.com/Feats.aspx?ID=2142) and [Continual Recovery](https://2e.aonprd.com/Feats.aspx?ID=771) to help patch everyone up. 
+
+This is what our stats look like now:
+
+|Ability Score|Modifier|
+|------------:|:-------|
+|STR 14|(+2)|
+|DEX 19|(+4)|
+|CON 16|(+3)|
+|INT 10|(+0)|
+|WIS 16|(+3)|
+|CHA 18|(+4)|
+
+Here is the [10th level character sheet](builds/itmetai-battle-oracle/oracle10.pdf).

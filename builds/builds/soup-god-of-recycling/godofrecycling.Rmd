@@ -1,0 +1,69 @@
+# Soup's God of Recycling
+
+*Build concept:* A God got reincarnated in the body of a level 1 goblin.
+
+This build is for [whostolemysoup (aka Soup)](https://www.twitch.tv/whostolemysoup). It assumes no prior knowledge to table top RPGs.
+
+```{r echo=FALSE, fig.cap="Reks and Ikul", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/soup-god-of-recycling/Soup And Salad-portrait.png")
+```
+```{r echo=FALSE, fig.cap="Reks", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/soup-god-of-recycling/soup.jpg")
+```
+
+```{r echo=FALSE, fig.cap="Ikul", out.width = '75%', fig.align='center', fig.pos = 'H'}
+knitr::include_graphics("builds/soup-god-of-recycling/salad.jpg")
+```
+
+*Reks is a forest goblin. A typical forest goblin. But one day he wakes up with the idea that he's the reincarnated God of Recycling. Sounds something straight from an anime to be honest.*
+
+*Reks soon discovered that he could "summon" his former glory as an Eidolon. How he learned this, who knows. Might be something that happened as he was being reincarnated or something. He decided to call his former self, Ikul. (get it, Reks-Ikul?)*
+
+*Reks now travels the lands, convinced that recycling old junk is how Ikul can gain strength. And as Ikul gains strength, Reks' "godhood" could be restored. Seeing trash not being used to its full potential is nearly an afront to Reks.*
+
+*This is an example character backstory, feel free to come up with your own.*
+
+---
+
+We'll talk about what the character is capable of, then we can talk about the finer things like ability scores and statistics. If you don't like how this character sounds, there's really no point in knowing what it's "Dexterity" score is, is there?
+
+From our little lore backstory above, we're a [Goblin](https://2e.aonprd.com/Ancestries.aspx?ID=4). A [Treedweller Goblin](https://2e.aonprd.com/Heritages.aspx?ID=38) to be specific. Treedwellers have bonuses to Hiding and Seeking in forest settings. We're also better at finding food and water in forests. It also serves as a prereq for something later on.
+
+We're particular about recycling, and the [Junk Tinker](https://2e.aonprd.com/Feats.aspx?ID=44) lets us craft weapons out of trash. These aren't amazing weapons, but they'd be sufficient in a pinch and essentially means that we'll never really be without a weapon.
+
+We spent a lot of time tinkering and recycling which works well with our [Junk Collector](https://2e.aonprd.com/Backgrounds.aspx?ID=274) Background.
+
+For our class options, we've taken the [Construct Eidolon](https://2e.aonprd.com/Eidolons.aspx?ID=4) because it fits with the recycling theme. In addition we've also taken the [Glider Form](https://2e.aonprd.com/Feats.aspx?ID=2891) for our Eidolon. This allows our Summon to glide through the air with ease. This isn't flying, that comes a bit later.
+
+All of the above happens at level 1.
+
+In combat, in general you'll want use your spells or crossbow. Ikul's combat options are a bit limited at level 1, but going "Warrior Mode" will make a decent front-line fighter for the time being. 
+
+---
+
+Now we're increased our level to 7. We've added in a few more options! 
+
+First we added [Magical Understudy](https://2e.aonprd.com/Feats.aspx?ID=2896) which gives Ikul two cantrips to use in combat. For that we've picked [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245) and [Elecric Arc](https://2e.aonprd.com/Spells.aspx?ID=97) which gives Ikul new ranged options to attack opponents in combat. We've also picked [Quick Repair](https://2e.aonprd.com/Feats.aspx?ID=827) and [Improvised Repair](https://2e.aonprd.com/Feats.aspx?ID=2132) which not only lets repair options faster but we can even make repairs during combat too.
+
+At 4th-level, we pick up the [Thaumaturge Dedication](https://2e.aonprd.com/Feats.aspx?ID=3743)
+which is our dive into multiclassing. Thaumaturges as a whole are an interesting class. They believe that every creature has a weakness, and with the right trinket or dohickey, they can exploit that weakness. The way it works for us, is we select one foe in combat to [Glimpse Vulnerability](https://2e.aonprd.com/Feats.aspx?ID=3743). That foe will take slightly more damage from our crossbow attacks.
+
+For our multiclass into Thaumaturge, we're also going with the [Amulet Implement](https://2e.aonprd.com/Implements.aspx?ID=1). We don't get the full effect at 4th-level now, but what it will be able to do is help prevent damage to us equal to 2 + our level. This will be important later.
+
+We also get [Tree Climber](https://2e.aonprd.com/Feats.aspx?ID=1006) and which gives us a climb speed, [Improvise Tool](https://2e.aonprd.com/Feats.aspx?ID=2131) which lets us repair things without a repair kit. It even gives us a way to craft basic adventurer tools, like hammers, ladders, thieves' picks, and more without a recipe book. [Snare Crafting](https://2e.aonprd.com/Feats.aspx?ID=843) lets us craft snares to trap potential foes.
+
+By 7th-level, we've hit our first milestone. We get [Implement Initiate](https://2e.aonprd.com/Feats.aspx?ID=3746) at 6th-level, which gives us that damage reduction from our amulet implement mentioned above. We also get [Ride](https://2e.aonprd.com/Feats.aspx?ID=835) and [Steed Form](https://2e.aonprd.com/Feats.aspx?ID=2899) at 7th-level which lets us ride Ikul more effectively. We could ride him before that, but we lose an action each turn (out of our 3 per turn) trying to control it.
+
+For combat, we'll want to ride Ikul as much as we can. If we get the high ground, we can use Ikul's Glider Form to coast in the air while we fire spells in combat. We can cast 3rd and 4th-level spells at level 7 too so we're can essentially be minor airborne based magical death in combat. Since both Reks and Ikul can cast [Ray of Frost](https://2e.aonprd.com/Spells.aspx?ID=245), imagine gliding around combat firing these rays at your foes. Thanks to our dip into Thaumaturge, if the target of our Glimpse Vulnerability attacks us, we can use the Amulet Implement to reduce the damage by 9 points.
+
+---
+
+We've now increased our level to 14, and we've reached our 2nd milestone for our build.
+
+We've picked options like [Magical Adept](https://2e.aonprd.com/Feats.aspx?ID=2920) which gives Ikul two spell slots that increase over time. We've picked [Inventor](https://2e.aonprd.com/Feats.aspx?ID=798) to create things even easier, and [Cave Climber](https://2e.aonprd.com/Feats.aspx?ID=48) to get a greater climb speed. 
+
+By 10th-level, we pick up [Amphibious Form](https://2e.aonprd.com/Feats.aspx?ID=2895) for Ikul. This gives Ikul a swim speed too. We can effectively use Ikul as a small boat now.
+
+We also picked [Incredible Investiture](https://2e.aonprd.com/Feats.aspx?ID=795) which lets us wear more magical items, which is good since [Magical Crafting](https://2e.aonprd.com/Feats.aspx?ID=812) lets us create magical items now.
+
+There's a few other options but the the pinnacle comes at level 14 where we get [Airborne Form](https://2e.aonprd.com/Feats.aspx?ID=2933). This gives Ikul a fly speed now. At 14th-level, Reks can cast 6th and 7th-level spells, and Ikul can cast a 4th and 5th-level spell. Combined with the Steed Form from before, Reks and Ikul effectively become an AC-130 raining magic down unto their opponents in combat. If the target of our [Glimpse Vulnerability](https://2e.aonprd.com/Feats.aspx?ID=3743) attacks us, with our Amulet we can prevent 16 damage as a Reaction.
