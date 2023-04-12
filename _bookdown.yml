@@ -14,5 +14,6 @@ rmd_files: [
   "builds/xiota-the-angy-monk/angymonk.Rmd",
   "builds/torchics-shadow/torchicsshadow.Rmd",
   "builds/mingos-monk-ey/mingosmonkey.Rmd",
-  "builds/soup-god-of-recycling/godofrecycling.Rmd"
+  "builds/soup-god-of-recycling/godofrecycling.Rmd",
+  "builds/itmetai-battle-oracle/itmetaioracle.Rmd"
 ]
